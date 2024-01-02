@@ -1,6 +1,6 @@
 # Bienvenue sur mon GITHUB
 >
-> Je m'appelle [Votre Nom], et à 33 ans, je suis actuellement en train d'entreprendre une passionnante transition professionnelle. Pendant les dix dernières années, j'ai travaillé dans le secteur de la restauration, où j'ai acquis des compétences précieuses en gestion du temps, en travail d'équipe et en service client.
+> Je m'appelle Tommy Ribeiro, et à 33 ans, je suis actuellement en train d'entreprendre une passionnante transition professionnelle. Pendant les dix dernières années, j'ai travaillé dans le secteur de la restauration, où j'ai acquis des compétences précieuses en gestion du temps, en travail d'équipe et en service client.
 >
 >Cependant, depuis un an et demi, ma vie a pris un tournant décisif. Guidé par ma passion pour la technologie et le désir d'explorer de nouveaux horizons, j'ai plongé tête la première dans le monde du développement informatique. Apprendre à coder est devenu une véritable passion, et j'ai investi temps et énergie pour acquérir des compétences solides dans divers langages de programmation.
 >
